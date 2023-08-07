@@ -8,7 +8,7 @@
         ["KC_Q"        , "KC_W"        , "KC_E"           , "KC_R"          , "KC_T",
          "KC_Y"        , "KC_U"        , "KC_I"           , "KC_O"          , "KC_P",
 
-         "KC_A"        , "KC_S"        , "KC_D"           , "KC_F"          , "KC_G",
+         "KC_A"        , "KC_S"        , "KC_D"           , "LT(3,KC_F)"    , "KC_G",
          "KC_H"        , "KC_J"        , "KC_K"           , "KC_L"          , "KC_BSPC",
 
          "LGUI_T(KC_Z)", "LALT_T(KC_X)", "LCTL_T(KC_C)"   , "LSFT_T(KC_V)"  , "KC_B",
@@ -42,13 +42,13 @@
          "KC_TRNS"     , "KC_TRNS"
         ],
         ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
-         "KC_TRNS"     , "KC_UNDS"     , "KC_PIPE"        , "KC_QUOT"       , "KC_TRNS",
+         "KC_HOME"     , "KC_BSPC"     , "LCTL(KC_BSPC)"        , "KC_QUOT"       , "KC_DEL",
 
-         "KC_CIRC"     , "KC_ASTR"     , "KC_AMPR"        , "KC_NO"         , "KC_TRNS",
-         "KC_HASH"     , "KC_TILD"     , "KC_SLSH"        , "KC_DQUO"       , "KC_DLR",
+         "KC_CIRC"     , "KC_LSFT"     , "KC_LCTL"        , "KC_NO"         , "KC_TRNS",
+         "KC_LEFT"     , "KC_DOWN"     , "KC_UP"          , "KC_RIGHT"      , "KC_DLR",
 
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
-         "KC_TRNS"     , "KC_MINS"     , "KC_BSLS"        , "KC_GRV"        , "KC_TRNS",
+         "KC_END"     , "KC_PGDN"     , "KC_PGUP"        , "KC_GRV"        , "KC_INS",
 
          "RGB_RMOD"    , "KC_TRNS",
          "KC_TRNS"     , "RGB_MOD"
